@@ -1,5 +1,8 @@
 ttkbootstrap
 pandas
 requests
+<<<<<<< HEAD
 matplotlib
+=======
+>>>>>>> 67d32e25915453c87537ab1f1af2714db8b4588e
 python-dotenv
