@@ -1,7 +1,4 @@
-from ui import GitHubRepoApp
-from tkinter import Tk
+from ui import launch_app
 
 if __name__ == "__main__":
-    root = Tk()
-    app = GitHubRepoApp(root)
-    root.mainloop()
+    launch_app()

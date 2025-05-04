@@ -1,3 +1,5 @@
-requests
+ttkbootstrap
 pandas
+requests
+matplotlib
 python-dotenv
